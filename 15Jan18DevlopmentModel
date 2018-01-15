@@ -1,6 +1,39 @@
 DOD:
 1.First My Under Satnding
-1.Project Devlopment Model?
+2.Project Devlopment Model?
+3
+4.Extra Things
+          -linking and building
+          -https://www.youtube.com/watch?v=6f8sAduX26I&t=8s
+          
+========================================================================================================
+1.First My Under Satnding on project Getting ,Project Managment and devlopment.
+    -Explain what all the Project Managment  thread run :
+      -During project Getting,Starting ,Running ,Tracking ,Deliverying,Ending 
+      -What model is used?
+ 
+    -What is the project Source: ?
+              a.It Could be New Idea-(Then how to excute the new idea:infrastructure):
+              b.Or Getting project from Other.
+                 -People involment to get the project.
+                 -Got the project
+              C.OrIt could be Existing running project : And customer says we want this feature to Add 
+                      -It could be change request
+                      -It could be  as bug fix based on size?
+          -After Getting the project
+               -Project excution
+               -Milestone Setting     
+
+               
+    -All the model what you fallow
+    -What you expect from Senior Engineer?(Role And Responsibility)?
+    -What you expect from Lead Engineer(Role and responsibility)?
+    -link your all study  at one place
+Problem:
+  =Succes is not digestible
+  =Reach in transition state,ommit every things,
+========================================================================================================
+2.Project Devlopment Model?
         -Ajile methodology()Definition  
          https://www.youtube.com/watch?v=-zDct5d2smY
         -Explaind  Ajile in deep:
@@ -8,9 +41,12 @@ DOD:
 
         -Sequence diagram for project devlopment and intercation
               -client and In our team
-2.How to create Project in Github?
+              -
 
 3.Extra Things
+          -One Idea-Devlop An Simple App to check 
+                -First page contain Action Item List
+                -Cliking on that sholud go to that page,edit and save option should thre
+          -How to create Project in Github?
           -linking and building
           -https://www.youtube.com/watch?v=6f8sAduX26I&t=8s
-4.
