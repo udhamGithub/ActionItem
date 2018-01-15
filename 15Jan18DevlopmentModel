@@ -1,12 +1,34 @@
 DOD:
-1.First My Under Satnding
+0.Nature of Project:What kind of project
+1.First My Under Satnding on Project Devlopment?
 2.Project Devlopment Model?
-3
 4.Extra Things
           -linking and building
           -https://www.youtube.com/watch?v=6f8sAduX26I&t=8s
           
 ========================================================================================================
+0.Nature of Project:What kind of project  or categorise of software?
+          -Desktop :
+                    -Core System  Software:    
+                              -Diffrent component and software which make the System. 
+                              -System Architecture,Processor,OS
+                    -System Aplication:
+                              -Power Monitering
+                              -memory monitoring tool,nework monitoring tool
+                              -control pannel 
+                    -Third pary aplication running on system
+                              -Internet Aplication
+                                     Comercial website e.g
+                                                  -Company websites   
+                                                  -Ecomerce website,
+                                                  -Educational Sites
+                                                  -Game Aplication-
+                  
+          -Embedde Device:
+                     -Core System  Software:
+                     -System Aplication-Native Aplication
+                     -third party aplication
+                     
 1.First My Under Satnding on project Getting ,Project Managment and devlopment.
     -Explain what all the Project Managment  thread run :
       -During project Getting,Starting ,Running ,Tracking ,Deliverying,Ending 
@@ -22,7 +44,8 @@ DOD:
                       -It could be  as bug fix based on size?
           -After Getting the project
                -Project excution
-               -Milestone Setting     
+               -Milestone Setting    
+     
 
                
     -All the model what you fallow
